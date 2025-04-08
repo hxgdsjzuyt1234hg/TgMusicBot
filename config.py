@@ -44,7 +44,7 @@ SESSION_STRINGS = [
 ]
 
 "Your Telegram User ID"
-OWNER_ID = int(getenv("OWNER_ID", 5938660179))
+OWNER_ID = int(getenv("OWNER_ID", 7886419837))
 
 "Your MongoDB URI; get it from https://cloud.mongodb.com"
 MONGO_URI = getenv("MONGO_URI", None)
@@ -66,8 +66,8 @@ DOWNLOADS_DIR = getenv("DOWNLOADS_DIR", "database/music")
 IMG_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
 
 "Support group and channel"
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/GuardxSupport")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/FallenProjects")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/MRMOTUPATLUCHAT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/MRMOTUPATLUCHAT")
 
 "If true, allows to skip all updates received while the TDLib instance was not running."
 IGNORE_BACKGROUND_UPDATES = getenv("IGNORE_BACKGROUND_UPDATES", "True").lower() == "true"
