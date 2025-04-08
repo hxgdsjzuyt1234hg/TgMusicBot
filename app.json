@@ -80,7 +80,7 @@
     },
     "OWNER_ID": {
       "description": "Your Telegram User ID, get it from https://t.me/GuardxRobot",
-      "value": "5938660179",
+      "value": "7886419837",
       "required": true
     },
     "MONGO_URI": {
@@ -120,12 +120,12 @@
     },
     "SUPPORT_GROUP": {
       "description": "Telegram Group Link",
-      "value": "https://t.me/GuardxSupport",
+      "value": "https://t.me/MRMOTUPATLUCHAT",
       "required": false
     },
     "SUPPORT_CHANNEL": {
       "description": "Telegram Channel Link",
-      "value": "https://t.me/FallenProjects",
+      "value": "https://t.me/MRMOTUPATLUCHAT",
       "required": false
     }
   },
